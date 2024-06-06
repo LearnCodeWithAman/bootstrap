@@ -1,0 +1,23 @@
+.clearBtn {
+    background-color:red;
+     color:white;
+}
+
+.scrollbar{
+    overflow:scroll;
+    height:380px;
+    scrollbar-width: none;
+}
+
+.title-bg{
+    background-color: #20c997;
+    color: white;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.t-head-bg{
+    background-color: #556B2F;
+    color: white;
+}
